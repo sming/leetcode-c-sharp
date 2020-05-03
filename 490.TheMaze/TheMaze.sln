@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMaze", "TheMaze\TheMaze.csproj", "{5B53B2BA-647C-49A9-88C8-87DD8E20EA36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMaze.Test", "TheMaze.Test\TheMaze.Test.csproj", "{4ACB3780-1768-405E-BA4C-2CD0FE605801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B53B2BA-647C-49A9-88C8-87DD8E20EA36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B53B2BA-647C-49A9-88C8-87DD8E20EA36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B53B2BA-647C-49A9-88C8-87DD8E20EA36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B53B2BA-647C-49A9-88C8-87DD8E20EA36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ACB3780-1768-405E-BA4C-2CD0FE605801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ACB3780-1768-405E-BA4C-2CD0FE605801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ACB3780-1768-405E-BA4C-2CD0FE605801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ACB3780-1768-405E-BA4C-2CD0FE605801}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
