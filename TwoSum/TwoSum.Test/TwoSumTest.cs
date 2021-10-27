@@ -32,6 +32,7 @@ namespace TwoSum.Test
 
             Assert.Equal(new int[] { 1, 2 }, res);
         }
+
         [Fact]
         public void Example3Test()
         {
@@ -40,6 +41,16 @@ namespace TwoSum.Test
             var res = s.TwoSum(nums, 6);
 
             Assert.Equal(new int[] { 0, 1 }, res);
+        }
+
+        [Fact]
+        public void Example4Test()
+        {
+            var nums = new int[] { 0, 4, 3, 0 };
+            var s = new Solution();
+            var res = s.TwoSum(nums, 0);
+
+            Assert.Equal(new int[] { 0, 3 }, res);
         }
     }
 }

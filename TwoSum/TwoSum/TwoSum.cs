@@ -100,6 +100,10 @@ namespace TwoSum
             }
 
             int pivotIdx = (lowIdx + highIdx) / 2;
+
+            if (nums[pivotIdx] == goal)
+                return pivotIdx;
+
             // If the pivot's too big, focus on the lower half of the array. Else focuse
             // on the upper half.
             if (nums[pivotIdx] > goal)

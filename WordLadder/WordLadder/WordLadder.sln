@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordLadder", "WordLadder\WordLadder.csproj", "{FB42C7E2-91B9-4806-89E4-ED80B00EB7E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordLadder.NUnit.Test", "WordLadder.NUnit.Test\WordLadder.NUnit.Test.csproj", "{B5B340C2-AFE1-4034-A183-7586E2EFDDA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB42C7E2-91B9-4806-89E4-ED80B00EB7E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB42C7E2-91B9-4806-89E4-ED80B00EB7E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB42C7E2-91B9-4806-89E4-ED80B00EB7E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB42C7E2-91B9-4806-89E4-ED80B00EB7E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B340C2-AFE1-4034-A183-7586E2EFDDA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B340C2-AFE1-4034-A183-7586E2EFDDA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B340C2-AFE1-4034-A183-7586E2EFDDA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B340C2-AFE1-4034-A183-7586E2EFDDA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

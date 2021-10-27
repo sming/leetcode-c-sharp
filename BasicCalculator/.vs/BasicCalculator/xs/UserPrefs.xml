@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{BDD5CC28-D099-4161-B2B1-305C6DBF4DB3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BasicCalculator/BasicCalculator.cs">
+    <Files>
+      <File FileName="BasicCalculator/Class1.cs" Line="73" Column="30" />
+      <File FileName="BasicCalculator.Tests/UnitTest1.cs" Line="5" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BasicCalculator" expanded="True">
+            <Node name="BasicCalculator" expanded="True">
+              <Node name="BasicCalculator.cs" selected="True" />
+            </Node>
+            <Node name="BasicCalculator.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="BasicCalculator" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BasicCalculator.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/peter/src/interview_practice/csharp/LeetCode/BasicCalculator/BasicCalculator/BasicCalculator.cs" relfile="BasicCalculator/BasicCalculator.cs" line="89" column="1" />
+      <Breakpoint file="/Users/peter/src/interview_practice/csharp/LeetCode/BasicCalculator/BasicCalculator/BasicCalculator.cs" relfile="BasicCalculator/BasicCalculator.cs" line="68" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

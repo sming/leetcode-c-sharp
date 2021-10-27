@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9826E444-A233-4A93-8AFD-79F44D2C31FA}|Default">
+  <MonoDevelop.Ide.ItemProperties.KthLargestElementInArray PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KthLargestElementInArray/KthLargestElementInArray.cs">
+    <Files>
+      <File FileName="KthLargestElementInArray/KthLargestElementInArray.cs" Line="88" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KthLargestElementInArray" expanded="True">
+            <Node name="KthLargestElementInArray" expanded="True">
+              <Node name="KthLargestElementInArray.cs" selected="True" />
+            </Node>
+            <Node name="KthLargestElementInArray.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

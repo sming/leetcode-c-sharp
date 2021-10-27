@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{53DCA8C9-2E99-48B5-AAF9-B79F97EE024D}|Default">
+  <MonoDevelop.Ide.ItemProperties.SubTree PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SubTree.Tests/SubTreeDetectorTest.cs">
+    <Files>
+      <File FileName="SubTreeDetector.cs" Line="62" Column="12" />
+      <File FileName="SubTree.Tests/SubTreeDetectorTest.cs" Line="16" Column="39" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SubTree" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="SubTree" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="SubTree.Tests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="SubTreeDetectorTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

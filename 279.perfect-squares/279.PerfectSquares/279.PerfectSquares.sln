@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "279.PerfectSquares", "279.PerfectSquares\279.PerfectSquares.csproj", "{E664DDAD-FB4F-4131-B779-C286B28D985D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9C41A98A-C1AE-439E-81CF-C1077BE9DA43}"
+	ProjectSection(SolutionItems) = preProject
+		279.PerfectSquares\PerfectSquares.cs = 279.PerfectSquares\PerfectSquares.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfectSquares.Test", "PerfectSquares.Test\PerfectSquares.Test.csproj", "{8C21C504-62BB-4E07-BE41-F1D18C572A7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E664DDAD-FB4F-4131-B779-C286B28D985D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E664DDAD-FB4F-4131-B779-C286B28D985D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E664DDAD-FB4F-4131-B779-C286B28D985D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E664DDAD-FB4F-4131-B779-C286B28D985D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C21C504-62BB-4E07-BE41-F1D18C572A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C21C504-62BB-4E07-BE41-F1D18C572A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C21C504-62BB-4E07-BE41-F1D18C572A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C21C504-62BB-4E07-BE41-F1D18C572A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
